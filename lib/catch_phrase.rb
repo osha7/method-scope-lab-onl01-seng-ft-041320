@@ -3,4 +3,4 @@ def catch_phrase(phrase)
   puts phrase
 end
 
-phrase = "I"
+phrase = "It's-a me, Mario!"
